@@ -1,0 +1,18 @@
+[{:f (fn [x] (-> x (expt 3) (- x) (+ 4)))
+ :left -2
+ :right -1
+ :eps 1/100
+ :iteration-cap 10
+ :solving-method :newton}
+ {:f (fn [x] (-> x (expt 3) (- x) (+ 4)))
+ :left -2
+ :right -1
+ :eps 1/100
+ :iteration-cap 10
+ :solving-method :newton}
+ {:f (fn [x] (-> x (expt 3) (- x) (+ 4)))
+ :left -2
+ :right -1
+ :eps 1/100
+ :iteration-cap 10
+ :solving-method :newton}]
